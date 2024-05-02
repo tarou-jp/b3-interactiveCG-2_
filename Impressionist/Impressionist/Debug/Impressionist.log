@@ -1,0 +1,166 @@
+﻿  bitmap.cpp
+C:\b3-interactiveCG-2\Impressionist\Impressionist\bitmap.cpp(26,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\b3-interactiveCG-2\Impressionist\Impressionist\bitmap.cpp(136,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  circleBrush.cpp
+  FltDesignUI.cpp
+  impBrush.cpp
+  impressionist.cpp
+  impressionistDoc.cpp
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(216,14): warning C4101: 'k': ローカル変数は 1 度も使われていません。
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(215,20): warning C4101: 'bufG': ローカル変数は 1 度も使われていません。
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(216,16): warning C4101: 'l': ローカル変数は 1 度も使われていません。
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(216,12): warning C4101: 'j': ローカル変数は 1 度も使われていません。
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(216,10): warning C4101: 'i': ローカル変数は 1 度も使われていません。
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(215,15): warning C4101: 'bufB': ローカル変数は 1 度も使われていません。
+C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(215,10): warning C4101: 'bufR': ローカル変数は 1 度も使われていません。
+  impressionistUI.cpp
+  originalView.cpp
+  paintView.cpp
+  pointBrush.cpp
+  triangleBrush.cpp
+  コードを生成中...
+fltkd.lib(case.obj) : warning LNK4099: PDB '' が 'fltkd.lib(case.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(filename_absolute.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_absolute.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(filename_expand.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_expand.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(filename_isdir.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_isdir.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(filename_list.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_list.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(filename_match.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_match.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_abort.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_abort.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_arc.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_arc.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_arci.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_arci.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_ask.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_ask.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Bitmap.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Bitmap.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Box.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Box.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_boxtype.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_boxtype.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Browser.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Browser.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Browser_.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Browser_.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Button.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Button.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Check_Button.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Check_Button.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Choice.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Choice.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_color.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_color.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_compose.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_compose.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_cursor.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_cursor.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_curve.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_curve.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Device.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Device.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_dnd.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_dnd.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Double_Window.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Double_Window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_draw.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_draw.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_draw_image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_draw_image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_draw_pixmap.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_draw_pixmap.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_File_Browser.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_File_Browser.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_File_Chooser.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_File_Chooser.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_File_Chooser2.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_File_Chooser2.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_file_dir.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_file_dir.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_File_Icon.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_File_Icon.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_File_Input.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_File_Input.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_font.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_font.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_get_system_colors.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_get_system_colors.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_grab.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_grab.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Group.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Group.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_gtk.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_gtk.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_gleam.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_gleam.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Input.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Input.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Input_.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Input_.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_labeltype.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_labeltype.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Light_Button.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Light_Button.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_line_style.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_line_style.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_lock.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_lock.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Menu.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Menu.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Menu_.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Menu_.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Menu_add.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Menu_add.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Menu_Bar.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Menu_Bar.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Menu_Button.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Menu_Button.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Menu_Window.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Menu_Window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Overlay_Window.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Overlay_Window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Pixmap.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Pixmap.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_plastic.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_plastic.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Preferences.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Preferences.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_read_image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_read_image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_rect.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_rect.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Repeat_Button.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Repeat_Button.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Return_Button.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Return_Button.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_round_box.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_round_box.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Scrollbar.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Scrollbar.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Shared_Image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Shared_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_shortcut.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_shortcut.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Single_Window.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Single_Window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Slider.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Slider.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_symbols.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_symbols.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Tile.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Tile.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Tiled_Image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Tiled_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Tooltip.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Tooltip.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_utf.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_utf.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_utf8.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_utf8.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Valuator.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Valuator.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Value_Input.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Value_Input.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Value_Slider.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Value_Slider.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(fl_vertex.obj) : warning LNK4099: PDB '' が 'fltkd.lib(fl_vertex.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_visual.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_visual.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Widget.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Widget.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Window.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Window_fullscreen.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Window_fullscreen.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Window_hotspot.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Window_hotspot.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_Window_shape.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_Window_shape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_XBM_Image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_XBM_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(Fl_XPM_Image.obj) : warning LNK4099: PDB '' が 'fltkd.lib(Fl_XPM_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(flstring.obj) : warning LNK4099: PDB '' が 'fltkd.lib(flstring.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(is_spacing.obj) : warning LNK4099: PDB '' が 'fltkd.lib(is_spacing.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(numericsort.obj) : warning LNK4099: PDB '' が 'fltkd.lib(numericsort.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(scandir.obj) : warning LNK4099: PDB '' が 'fltkd.lib(scandir.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(screen_xywh.obj) : warning LNK4099: PDB '' が 'fltkd.lib(screen_xywh.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkd.lib(vsnprintf.obj) : warning LNK4099: PDB '' が 'fltkd.lib(vsnprintf.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkgld.lib(Fl_Gl_Choice.obj) : warning LNK4099: PDB '' が 'fltkgld.lib(Fl_Gl_Choice.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkgld.lib(Fl_Gl_Device_Plugin.obj) : warning LNK4099: PDB '' が 'fltkgld.lib(Fl_Gl_Device_Plugin.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkgld.lib(Fl_Gl_Window.obj) : warning LNK4099: PDB '' が 'fltkgld.lib(Fl_Gl_Window.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkgld.lib(gl_draw.obj) : warning LNK4099: PDB '' が 'fltkgld.lib(gl_draw.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkimagesd.lib(Fl_BMP_Image.obj) : warning LNK4099: PDB '' が 'fltkimagesd.lib(Fl_BMP_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkimagesd.lib(Fl_GIF_Image.obj) : warning LNK4099: PDB '' が 'fltkimagesd.lib(Fl_GIF_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkimagesd.lib(fl_images_core.obj) : warning LNK4099: PDB '' が 'fltkimagesd.lib(fl_images_core.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkimagesd.lib(Fl_JPEG_Image.obj) : warning LNK4099: PDB '' が 'fltkimagesd.lib(Fl_JPEG_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkimagesd.lib(Fl_PNG_Image.obj) : warning LNK4099: PDB '' が 'fltkimagesd.lib(Fl_PNG_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkimagesd.lib(Fl_PNM_Image.obj) : warning LNK4099: PDB '' が 'fltkimagesd.lib(Fl_PNM_Image.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jcomapi.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jcomapi.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jaricom.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jaricom.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdarith.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdarith.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdapimin.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdapimin.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdapistd.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdapistd.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdatasrc.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdatasrc.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdcoefct.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdcoefct.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdcolor.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdcolor.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jddctmgr.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jddctmgr.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdhuff.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdhuff.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdinput.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdinput.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdmainct.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdmainct.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdmarker.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdmarker.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdmaster.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdmaster.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdmerge.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdmerge.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdpostct.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdpostct.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jdsample.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jdsample.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jerror.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jerror.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jidctflt.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jidctflt.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jidctfst.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jidctfst.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jidctint.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jidctint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jmemmgr.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jmemmgr.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jmemnobs.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jmemnobs.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jquant1.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jquant1.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jquant2.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jquant2.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkjpegd.lib(jutils.obj) : warning LNK4099: PDB '' が 'fltkjpegd.lib(jutils.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(png.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(png.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngerror.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngerror.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngget.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngget.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngmem.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngmem.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngread.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngread.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngrio.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngrio.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngrtran.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngrtran.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngrutil.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngrutil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngset.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngset.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkpngd.lib(pngtrans.obj) : warning LNK4099: PDB '' が 'fltkpngd.lib(pngtrans.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkzlibd.lib(adler32.obj) : warning LNK4099: PDB '' が 'fltkzlibd.lib(adler32.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkzlibd.lib(crc32.obj) : warning LNK4099: PDB '' が 'fltkzlibd.lib(crc32.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkzlibd.lib(inffast.obj) : warning LNK4099: PDB '' が 'fltkzlibd.lib(inffast.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkzlibd.lib(inflate.obj) : warning LNK4099: PDB '' が 'fltkzlibd.lib(inflate.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkzlibd.lib(inftrees.obj) : warning LNK4099: PDB '' が 'fltkzlibd.lib(inftrees.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+fltkzlibd.lib(zutil.obj) : warning LNK4099: PDB '' が 'fltkzlibd.lib(zutil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  Impressionist.vcxproj -> C:\b3-interactiveCG-2\Impressionist\Debug\Impressionist.exe
