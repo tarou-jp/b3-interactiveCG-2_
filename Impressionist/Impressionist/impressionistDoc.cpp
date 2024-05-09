@@ -16,6 +16,7 @@
 #include "circleBrush.h"
 #include "triangleBrush.h"
 #include "lineBrush.h"
+#include "scatteredPointBrush.h"
 
 // Include individual brush headers here.
 //ブラシ追加
@@ -43,6 +44,7 @@ ImpressionistDoc::ImpressionistDoc()
 	ImpBrush::c_pBrushes[BRUSH_TRIANGLES] = new TriangleBrush(this, "Triangles");
 	ImpBrush::c_pBrushes[BRUSH_CIRCLES] = new CircleBrush(this, "Circles");
 	ImpBrush::c_pBrushes[BRUSH_LINES] = new LineBrush(this, "Lines");
+	ImpBrush::c_pBrushes[BRUSH_SCATTEREDPOINTS] = new ScatteredPointBrush(this, "ScatteredPoints");
 	// Note: You should implement these 5 brushes.  They are set the same (PointBrush) for now
 
 	// make one of the brushes current
