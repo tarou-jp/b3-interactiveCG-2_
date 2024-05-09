@@ -8,6 +8,8 @@
 #include "impressionistDoc.h"
 #include "impressionistUI.h"
 #include "circleBrush.h"
+#include <math.h>
+#define PI 3.1415
 
 extern float frand();
 
@@ -44,10 +46,20 @@ void CircleBrush::BrushMove(const Point source, const Point target)
 		return;
 	}
 
-	//SetColorAlpha( source, alpha );
-	SetColor(source);
-	glBegin(GL_POINTS);
-	glVertex2d(target.x, target.y);
+    //ダイアログのスライダーからブラシの大きさを取得
+	int size = pDoc->getSize();
+	int div = 12;
+	float radius = size / 2.0;
+	float Ax, Ay;
+
+	//引数がGL_POLYGONの場合、凸多角形を描画
+	glBegin(GL_POLYGON);
+	SetColor( source );
+	for (int i = 0; i < div; i++) {
+		Ax = target.x + radius * cos(2 * PI * i / div);
+		Ay = target.y + radius * sin(2 * PI * i / div);
+		glVertex2f(Ax, Ay);
+	}
 	glEnd();
 }
 

@@ -44,10 +44,24 @@ void TriangleBrush::BrushMove(const Point source, const Point target)
 		return;
 	}
 
-	//SetColorAlpha( source, alpha );
-	SetColor(source);
-	glBegin(GL_POINTS);
-	glVertex2d(target.x, target.y);
+		//ダイアログのスライダーからブラシの大きさを取得
+	int size = pDoc->getSize();
+	int Ax, Ay, Bx, By, Cx, Cy;
+
+	//三角形の各頂点の座標
+	Ax = target.x - (.5 * size);
+	Bx = target.x + (.5 * size);
+	Cx = target.x;
+	Ay = target.y - (.5 * size);
+	By = target.y - (.5 * size);
+	Cy = target.y + (.5 * size);
+
+	//引数がGL_POLYGONの場合、凸多角形を描画
+	glBegin(GL_POLYGON);
+	SetColor( source );
+	glVertex2d(Ax, Ay);
+	glVertex2d(Bx, By);
+	glVertex2d(Cx, Cy);
 	glEnd();
 }
 
