@@ -18,6 +18,8 @@
 #include "lineBrush.h"
 #include "scatteredPointBrush.h"
 #include "scatteredCircleBrush.h"
+#include "scatteredMosaicBrush.h"
+#include "ExplosionBrush.h"
 
 // Include individual brush headers here.
 //ブラシ追加
@@ -47,6 +49,8 @@ ImpressionistDoc::ImpressionistDoc()
 	ImpBrush::c_pBrushes[BRUSH_LINES] = new LineBrush(this, "Lines");
 	ImpBrush::c_pBrushes[BRUSH_SCATTEREDPOINTS] = new ScatteredPointBrush(this, "ScatteredPoints");
 	ImpBrush::c_pBrushes[BRUSH_SCATTEREDCIRCLES] = new ScatteredCircleBrush(this, "ScatteredCircles");
+	ImpBrush::c_pBrushes[BRUSH_SCATTERDMOSAIC] = new ScatteredMosaicBrush(this, "ScatteredMosaics");
+	ImpBrush::c_pBrushes[BRUSH_EXPLOSION] = new ExplosionBrush(this, "Explosions");
 	// Note: You should implement these 5 brushes.  They are set the same (PointBrush) for now
 
 	// make one of the brushes current

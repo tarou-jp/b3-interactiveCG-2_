@@ -402,6 +402,8 @@ Fl_Menu_Item ImpressionistUI::brushTypeMenu[NUM_BRUSH_TYPE+1] = {
   {"lines",FL_ALT + 'l', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_LINES},
   {"ScatteredPoints",   FL_ALT + 's', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_SCATTEREDPOINTS},
   {"ScatteredCircles",  FL_ALT + 'd', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_SCATTEREDCIRCLES},
+  {"ScatteredMosaics",  FL_ALT + 'd', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_SCATTERDMOSAIC},
+  {"Explosions",  FL_ALT + 'd', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_EXPLOSION},
   //ƒuƒ‰ƒV’Ç‰Á
   {0}
 };

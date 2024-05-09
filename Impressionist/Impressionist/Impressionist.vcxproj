@@ -86,6 +86,7 @@
   <ItemGroup>
     <ClInclude Include="bitmap.h" />
     <ClInclude Include="circleBrush.h" />
+    <ClInclude Include="ExplosionBrush.h" />
     <ClInclude Include="FltDesignUI.h" />
     <ClInclude Include="impBrush.h" />
     <ClInclude Include="impressionist.h" />
@@ -96,12 +97,14 @@
     <ClInclude Include="paintView.h" />
     <ClInclude Include="pointBrush.h" />
     <ClInclude Include="scatteredCircleBrush.h" />
+    <ClInclude Include="ScatteredMosaicBrush.h" />
     <ClInclude Include="ScatteredPointBrush.h" />
     <ClInclude Include="triangleBrush.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="bitmap.cpp" />
     <ClCompile Include="circleBrush.cpp" />
+    <ClCompile Include="ExplosionBrush.cpp" />
     <ClCompile Include="FltDesignUI.cpp" />
     <ClCompile Include="impBrush.cpp" />
     <ClCompile Include="impressionist.cpp" />
@@ -112,6 +115,7 @@
     <ClCompile Include="paintView.cpp" />
     <ClCompile Include="pointBrush.cpp" />
     <ClCompile Include="scatteredCircleBrush.cpp" />
+    <ClCompile Include="ScatteredMosaicBrush.cpp" />
     <ClCompile Include="ScatteredPointBrush.cpp" />
     <ClCompile Include="triangleBrush.cpp" />
   </ItemGroup>

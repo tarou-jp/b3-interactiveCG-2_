@@ -1,27 +1,4 @@
-﻿  bitmap.cpp
-C:\b3-interactiveCG-2\Impressionist\Impressionist\bitmap.cpp(26,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\b3-interactiveCG-2\Impressionist\Impressionist\bitmap.cpp(136,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  circleBrush.cpp
-  FltDesignUI.cpp
-  impBrush.cpp
-  impressionist.cpp
-  impressionistDoc.cpp
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(226,14): warning C4101: 'k': ローカル変数は 1 度も使われていません。
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(225,20): warning C4101: 'bufG': ローカル変数は 1 度も使われていません。
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(226,16): warning C4101: 'l': ローカル変数は 1 度も使われていません。
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(226,12): warning C4101: 'j': ローカル変数は 1 度も使われていません。
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(226,10): warning C4101: 'i': ローカル変数は 1 度も使われていません。
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(225,15): warning C4101: 'bufB': ローカル変数は 1 度も使われていません。
-C:\b3-interactiveCG-2\Impressionist\Impressionist\impressionistDoc.cpp(225,10): warning C4101: 'bufR': ローカル変数は 1 度も使われていません。
-  impressionistUI.cpp
-  lineBrush.cpp
-  originalView.cpp
-  paintView.cpp
-  pointBrush.cpp
-  scatteredCircleBrush.cpp
-  ScatteredPointBrush.cpp
-  triangleBrush.cpp
-  コードを生成中...
+﻿  ScatteredMosaicBrush.cpp
 fltkd.lib(case.obj) : warning LNK4099: PDB '' が 'fltkd.lib(case.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
 fltkd.lib(filename_absolute.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_absolute.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
 fltkd.lib(filename_expand.obj) : warning LNK4099: PDB '' が 'fltkd.lib(filename_expand.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
