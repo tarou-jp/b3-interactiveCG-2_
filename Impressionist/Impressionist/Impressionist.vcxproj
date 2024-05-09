@@ -91,6 +91,7 @@
     <ClInclude Include="impressionist.h" />
     <ClInclude Include="impressionistDoc.h" />
     <ClInclude Include="impressionistUI.h" />
+    <ClInclude Include="lineBrush.h" />
     <ClInclude Include="originalView.h" />
     <ClInclude Include="paintView.h" />
     <ClInclude Include="pointBrush.h" />
@@ -104,6 +105,7 @@
     <ClCompile Include="impressionist.cpp" />
     <ClCompile Include="impressionistDoc.cpp" />
     <ClCompile Include="impressionistUI.cpp" />
+    <ClCompile Include="lineBrush.cpp" />
     <ClCompile Include="originalView.cpp" />
     <ClCompile Include="paintView.cpp" />
     <ClCompile Include="pointBrush.cpp" />

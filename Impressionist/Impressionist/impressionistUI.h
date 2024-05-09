@@ -47,6 +47,9 @@ public:
 	Fl_Slider*			m_BrushSizeSlider;
 	//実習
 	//角度とα値のスライダー
+	Fl_Slider* m_BrushAngleSlider;  //傾きスライダー
+	int					getAngle();			 //傾き値を取得する関数
+	void				setAngle(int angle); //傾き値を設定する関数
 
 
 	Fl_Button*          m_ClearCanvasButton;
@@ -117,6 +120,10 @@ private:
 
 	//実習
 	//角度とα値コールバック
+	int			m_nAngle; //傾き用の変数
+	//傾きスライダー用コールバック
+	static void cb_angleSlides(Fl_Widget* o, void* v);
+
 };
 
 #endif

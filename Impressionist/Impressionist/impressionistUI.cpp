@@ -284,7 +284,10 @@ void ImpressionistUI::cb_sizeSlides(Fl_Widget* o, void* v)
 }
 
 //実習
-
+void ImpressionistUI::cb_angleSlides(Fl_Widget* o, void* v)
+{
+	((ImpressionistUI*)(o->user_data()))->m_nAngle = int(((Fl_Slider*)o)->value());
+}
 
 //---------------------------------- per instance functions --------------------------------------
 
@@ -338,6 +341,10 @@ int ImpressionistUI::getSize()
 // Return the brush angle
 //------------------------------------------------
 
+int ImpressionistUI::getAngle()
+{
+	return m_nAngle;
+}
 
 //------------------------------------------------
 // Return the alpha value
@@ -356,7 +363,13 @@ void ImpressionistUI::setSize( int size )
 		m_BrushSizeSlider->value(m_nSize);
 }
 
+void ImpressionistUI::setAngle(int angle)
+{
+	m_nAngle = angle;
 
+	if (angle <= 360)
+		m_BrushAngleSlider->value(m_nAngle);
+}
 
 
 
@@ -386,6 +399,7 @@ Fl_Menu_Item ImpressionistUI::brushTypeMenu[NUM_BRUSH_TYPE+1] = {
   {"Points",			FL_ALT+'p', (Fl_Callback *)ImpressionistUI::cb_brushChoice, (void *)BRUSH_POINTS},
   {"Triangles",FL_ALT + 't', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_TRIANGLES},
   {"circles",FL_ALT + 'c', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_CIRCLES},
+  {"lines",FL_ALT + 'l', (Fl_Callback*)ImpressionistUI::cb_brushChoice, (void*)BRUSH_LINES},
   //ブラシ追加
   {0}
 };
@@ -466,7 +480,18 @@ ImpressionistUI::ImpressionistUI() {
 
 		//実習
 		//傾きスライダー
-
+		m_nAngle = 0;
+		m_BrushAngleSlider = new	Fl_Value_Slider(10, 120, 300, 20, "Angle");		//	スライダー
+		m_BrushAngleSlider->user_data((void*)(this));
+		m_BrushAngleSlider->type(FL_HOR_NICE_SLIDER);
+		m_BrushAngleSlider->labelfont(FL_COURIER);
+		m_BrushAngleSlider->labelsize(12);
+		m_BrushAngleSlider->minimum(0); //	スライダー最小値
+		m_BrushAngleSlider->maximum(360); //	スライダー最大値
+		m_BrushAngleSlider->step(1);
+		m_BrushAngleSlider->value(m_nAngle); //	スライダー値の格納場所
+		m_BrushAngleSlider->align(FL_ALIGN_RIGHT);
+		m_BrushAngleSlider->callback(cb_angleSlides);
 
 		//α値スライダー
 

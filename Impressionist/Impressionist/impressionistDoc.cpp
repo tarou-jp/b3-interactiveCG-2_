@@ -15,6 +15,7 @@
 #include "impBrush.h"
 #include "circleBrush.h"
 #include "triangleBrush.h"
+#include "lineBrush.h"
 
 // Include individual brush headers here.
 //ブラシ追加
@@ -41,6 +42,7 @@ ImpressionistDoc::ImpressionistDoc()
 	ImpBrush::c_pBrushes[BRUSH_POINTS]	= new PointBrush( this, "Points" );
 	ImpBrush::c_pBrushes[BRUSH_TRIANGLES] = new TriangleBrush(this, "Triangles");
 	ImpBrush::c_pBrushes[BRUSH_CIRCLES] = new CircleBrush(this, "Circles");
+	ImpBrush::c_pBrushes[BRUSH_LINES] = new LineBrush(this, "Lines");
 	// Note: You should implement these 5 brushes.  They are set the same (PointBrush) for now
 
 	// make one of the brushes current
@@ -82,6 +84,10 @@ int ImpressionistDoc::getSize()
 	return m_pUI->getSize();
 }
 
+int ImpressionistDoc::getAngle()
+{
+	return m_pUI->getAngle();
+}
 
 //---------------------------------------------------------
 // Load the specified image
